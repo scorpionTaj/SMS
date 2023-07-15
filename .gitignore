@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Login.txt
+Colors.txt
+Certificate.txt
+PFE WORD.txt
+SQL Server Azure Login.txt
+
 # User-specific files
 *.rsuser
 *.suo
