@@ -1,0 +1,2 @@
+cashier : 123456      CASHIER
+taj : admin          ADMIN
